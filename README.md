@@ -44,7 +44,7 @@ This serves as a clean, baseline framework for learning about IDS pipelines, ana
 
 ---
 
-## 📁 Folder Structure in your device
+## Folder Structure in your Device
 
 ### 📊 Feature-Selected Workbook (Required)
 
@@ -140,7 +140,7 @@ This will create:
 
 ---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 - **[Pranav Chougule](https://github.com/Greatmax-07)** – Led the end-to-end implementation, including model design, feature engineering, training, and reporting
 - **[Varad Tanawade](https://github.com/vartan2006)** – Provided critical guidance in correcting the data-splitting strategy, which helped avoid model bias and improved the overall pipeline quality
