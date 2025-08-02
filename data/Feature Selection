@@ -1,6 +1,7 @@
 Since this was also a Data Analytics project for college, we were expected to do part of the analysis using tools like Excel instead of just coding everything in Python. 
 So I downloaded the full CIC-IDS-2017 dataset from Kaggle, explored it manually in Excel, and selected the most relevant features based on packet behaviors, traffic stats, etc.
 These selected features were then used as input to the "data_cleaning.py" script, which created the "cleaned_dataset" for training.  
+
 The final set of selected columns was:
 1. Destination Port
 2. Flow Duration
@@ -26,3 +27,6 @@ The final set of selected columns was:
 22. Bwd Header Length
 23. Packet Length Mean
 24. Label
+
+You can download the feature_selected_file from here:
+[https://docs.google.com/spreadsheets/d/1DYT9haevZg3vLJu14RSE7lHSp0czjtzk/edit?usp=sharing&ouid=101696014190707870752&rtpof=true&sd=true]
