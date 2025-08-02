@@ -1,0 +1,28 @@
+Since this was also a Data Analytics project for college, we were expected to do part of the analysis using tools like Excel instead of just coding everything in Python. 
+So I downloaded the full CIC-IDS-2017 dataset from Kaggle, explored it manually in Excel, and selected the most relevant features based on packet behaviors, traffic stats, etc.
+These selected features were then used as input to the "data_cleaning.py" script, which created the "cleaned_dataset" for training.  
+The final set of selected columns was:
+1. Destination Port
+2. Flow Duration
+3. Total Fwd Packets
+4. Total Backward Packets
+5. Total Length of Fwd Packets
+6. Total Length of Bwd Packets
+7. Fwd Packet Length Max
+8. Fwd Packet Length Min
+9. Fwd Packet Length Mean
+10. Fwd Packet Length Std
+11. Bwd Packet Length Max
+12. Bwd Packet Length Min
+13. Bwd Packet Length Mean
+14. Bwd Packet Length Std
+15. Flow Bytes/s
+16. Flow Packets/s
+17. Fwd IAT Mean
+18. Fwd IAT Std
+19. Bwd IAT Mean
+20. Bwd IAT Std
+21. Fwd Header Length
+22. Bwd Header Length
+23. Packet Length Mean
+24. Label
