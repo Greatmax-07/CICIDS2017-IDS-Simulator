@@ -51,7 +51,7 @@ This serves as a clean, baseline framework for learning about IDS pipelines, ana
 The pipeline starts from a manually curated Excel workbook `feature_selected_dataset.xlsx` (~393 MB).  
 GitHub can’t host a file this large, so grab it from Google Drive:
 
-[Download the workbook]([https://docs.google.com/spreadsheets/d/1DYT9haevZg3vLJu14RSE7lHSp0czjtzk/edit?usp=sharing&ouid=101696014190707870752&rtpof=true&sd=true])
+[Download the workbook from here](https://docs.google.com/spreadsheets/d/1DYT9haevZg3vLJu14RSE7lHSp0czjtzk/edit?usp=sharing&ouid=101696014190707870752&rtpof=true&sd=true)
 
 After download, place the file here:
 ```
