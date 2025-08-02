@@ -144,8 +144,8 @@ This will create:
 
 - **[Pranav Chougule](https://github.com/Greatmax-07)** – Led the end-to-end implementation, including model design, feature engineering, training, and reporting
 - **[Varad Tanawade](https://github.com/vartan2006)** – Provided critical guidance in correcting the data-splitting strategy, which helped avoid model bias and improved the overall pipeline quality
-- CICIDS-2017 Dataset by Canadian Institute for Cybersecurity
-- Core pipeline developed with support from OpenAI's ChatGPT
+- **Canadian Institute for Cybersecurity (CIC)** – For publishing the CICIDS-2017 dataset.  
+- **OpenAI's ChatGPT** – Provided programming and debugging assistance throughout the pipeline development.
 
 ---
 
