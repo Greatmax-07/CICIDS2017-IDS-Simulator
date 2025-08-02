@@ -136,7 +136,7 @@ This will create:
 ## Output Samples
 
 ![Test Data Confusion Matrix](assets/test_data_confusion_matrix.png)
-![Corelation Heatmap](assets/correlation_heatmap_after_cleaning.png)
+![Correlation Heatmap](assets/correlation_heatmap_after_cleaning.png)
 
 ---
 
